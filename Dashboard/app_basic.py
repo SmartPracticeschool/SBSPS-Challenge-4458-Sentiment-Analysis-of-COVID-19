@@ -122,7 +122,7 @@ fig_words.update_layout(
                 paper_bgcolor='rgba(0, 0, 0, 0)',
                 plot_bgcolor='rgba(0, 0, 0, 0)',
                 margin={'t': 75},
-                hovermode='x',
+                hovermode='y',
                 height = 550,
                 #autosize=True,
                 title={'text': 'Most Used Common Words', 'font': {'color': 'white'}, 'x': 0.5},
