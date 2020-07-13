@@ -7,4 +7,4 @@ We extracted the tweets from Twitter with the help of Tweepy. The tweets are pre
 All the code will be uploaded as the task is completed. 
 
 ### For viewing the Web Application
-Refere the Readme file of the folder named 'Dashboard' for the instructions
+Refer to the Readme file of the folder named 'Dashboard' for the instructions.
