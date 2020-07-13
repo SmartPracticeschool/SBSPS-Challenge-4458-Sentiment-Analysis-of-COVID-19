@@ -414,40 +414,6 @@ app.layout = html.Div(
         )
         
     ])
-    
-
-
-# Callback for timeseries price
-# @app.callback(Output('timeseries', 'figure'),
-#               [Input('stockselector', 'value')])
-# def update_graph(selected_dropdown_value):
-#     trace1 = []
-#     df_sub = df
-#     for stock in selected_dropdown_value:
-#         trace1.append(go.Scatter(x=df_sub[df_sub['stock'] == stock].index,
-#                                  y=df_sub[df_sub['stock'] == stock]['value'],
-#                                  mode='lines',
-#                                  opacity=0.7,
-#                                  name=stock,
-#                                  textposition='bottom center'))
-#     traces = [trace1]
-#     data = [val for sublist in traces for val in sublist]
-#     figure = {'data': data,
-#               'layout': go.Layout(
-#                   colorway=["#5E0DAC", '#FF4F00', '#375CB1', '#FF7400', '#FFF400', '#FF0056'],
-#                   template='plotly_dark',
-#                   paper_bgcolor='rgba(0, 0, 0, 0)',
-#                   plot_bgcolor='rgba(0, 0, 0, 0)',
-#                   margin={'b': 15},
-#                   hovermode='x',
-#                   autosize=True,
-#                   title={'text': 'Stock Prices', 'font': {'color': 'white'}, 'x': 0.5},
-#                   xaxis={'range': [df_sub.index.min(), df_sub.index.max()]},
-#               ),
-
-#               }
-
-#     return figure
 
 ##Callback for five emotions line graph
 @app.callback(
@@ -473,10 +439,10 @@ def update_graph_sentiment_5(selected_dropdown_value):
                 margin={'b': 15},
                 hovermode='x',
                 autosize=True,
-                title={'text': 'Emotions recorded w.r.t Date', 'font': {'color': 'white'}, 'x': 0.5},
+                  title={'text': 'Sentiment level Recorded w.r.t Date', 'font': {'color': 'white'}, 'x': 0.5},
                 #xaxis={'range': [df_sub.index.min(), df_sub.index.max()]},
                 xaxis_title="Date",
-                yaxis_title="Value Recorded",
+                yaxis_title="Sentiment level(%)",
     )
     
 
