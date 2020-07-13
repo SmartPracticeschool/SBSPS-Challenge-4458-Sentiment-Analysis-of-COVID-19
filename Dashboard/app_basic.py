@@ -144,7 +144,7 @@ fig_pie.update_layout(
                 hovermode='x',
                 height = 300,
                 #autosize=True,
-                title={'text': 'Polarity of recorded Tweets', 'font': {'color': 'white'}, 'x': 0.5},
+                title={'text': 'Polarity Distribution observed', 'font': {'color': 'white'}, 'x': 0.5},
                 #xaxis={'range': [df_sub.index.min(), df_sub.index.max()]},
 )
 
