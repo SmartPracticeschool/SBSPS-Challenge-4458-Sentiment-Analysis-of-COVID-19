@@ -6,6 +6,6 @@ The Visualization Dashboard is a web app developend for viewing the sentiment an
 1. CLone or Download the git repository.
 2. In terminal/Command prompt, navigate to the directly where 'Dashboard' is saved. 
 *To do so use `cd <Directory path>/Dashbaord` in your terminal/Command prompt.
-3. Do `pip install requirements.txt` to download all the required frameworks/toolkits
+3. Do `pip install -r requirements.txt` to download all the required frameworks/toolkits
 4. run the 'app_basic.py' file using `python app_basic.py` in your powershell terminal.
 5. Click on the link shown.
