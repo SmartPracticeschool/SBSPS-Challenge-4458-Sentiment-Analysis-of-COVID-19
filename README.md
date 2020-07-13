@@ -5,3 +5,6 @@ Our aim is to develop a sentiment analysis visualization dashboard. The Corona V
 We extracted the tweets from Twitter with the help of Tweepy. The tweets are preprocessed using a combination of preprocessing techniques and labelled with the help of IBM Watson Tone Analyzer. We deploy a Google BERT model for fine tuning. All the evaluated metrics will be displayed on the dashboard using DASH framework.
 
 All the code will be uploaded as the task is completed. 
+
+###For viewing the Web Application
+Refere the Readme file of the folder named 'Dashboard' for the instructions
