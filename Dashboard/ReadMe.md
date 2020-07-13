@@ -1,8 +1,8 @@
-### Visualization Dashboard
+## Visualization Dashboard
 
 The Visualization Dashboard is a web app developend for viewing the sentiment analysis of covid 19 tweets and the topic modelling of news related to the current pandamic. It uses Dash framework and css for basic styling.
 
-## For running the Dashboard in your local computer
+### For running the Dashboard in your local computer
 1. CLone or Download the git repository.
 2. In terminal/Command prompt, navigate to the directly where 'Dashboard' is saved. 
 *To do so use `cd <Directory path>/Dashbaord` in your terminal/Command prompt.
