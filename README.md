@@ -6,6 +6,9 @@ The database used to obatin tweets from corresponding Tweet IDs can be found her
 
 All the code will be uploaded as the task is completed. 
 
+<h4> Link for Video Presentation:</h4> 
+ <a>https://drive.google.com/file/d/1FtWK6BZ3mt5aaOuE1fhtHI8DsBHB3F1p/view?usp=sharing</a>
+
 ### For viewing the Web Application
 - Refer to the Readme file of the folder named 'Dashboard' for the instructions for running the web app locally.
 - Visit http://sentimentanalysis-quick-panda-hz.eu-gb.mybluemix.net/ to view the web app hosted on IBM cloud.
