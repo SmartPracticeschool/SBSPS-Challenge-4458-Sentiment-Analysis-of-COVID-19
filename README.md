@@ -4,7 +4,7 @@ Our aim is to develop a sentiment analysis visualization dashboard. The Corona V
 
 The database used to obatin tweets from corresponding Tweet IDs can be found here : <a> https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset </a>.The tweets are preprocessed using a combination of preprocessing techniques and labelled with the help of IBM Watson Tone Analyzer. We deploy a Google BERT model for fine tuning. All the evaluated metrics will be displayed on the dashboard using DASH framework.
 
-All the code will be uploaded as the task is completed. 
+All code and datbases used have been uploaded for reference. 
 
 <h4> Link for Video Presentation:</h4> 
  https://drive.google.com/file/d/1FtWK6BZ3mt5aaOuE1fhtHI8DsBHB3F1p/view?usp=sharing
