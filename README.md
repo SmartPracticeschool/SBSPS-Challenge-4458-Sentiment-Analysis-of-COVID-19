@@ -8,7 +8,7 @@ All the code will be uploaded as the task is completed.
 
 ### For viewing the Web Application
 - Refer to the Readme file of the folder named 'Dashboard' for the instructions for running the web app locally.
-- Visit http://sentimentanalysis-quick-panda-hz.eu-gb.mybluemix.net/ to view out web app hosted on IBM cloud.
+- Visit http://sentimentanalysis-quick-panda-hz.eu-gb.mybluemix.net/ to view the web app hosted on IBM cloud.
 
 <br>
  References:<br>
