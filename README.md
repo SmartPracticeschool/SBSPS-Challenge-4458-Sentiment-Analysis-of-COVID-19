@@ -9,3 +9,13 @@ All the code will be uploaded as the task is completed.
 ### For viewing the Web Application
 - Refer to the Readme file of the folder named 'Dashboard' for the instructions for running the web app locally.
 - Visit http://sentimentanalysis-quick-panda-hz.eu-gb.mybluemix.net/ to view out web app hosted on IBM cloud.
+
+<br>
+References:<br>
+
+1. <a>https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset</a>
+2.<a>https://pandas.pydata.org/</a>
+3.<a>https://towardsdatascience.com/twitter-sentiment-analysis-based-on-news-topics-during-covid-19-c3d738005b55</a>
+4.<a>https://www.ibm.com/watson/services/tone-analyzer/</a>
+5.<a>https://www.datacamp.com/community/tutorials/learn-build-dash-python</a>
+ 
