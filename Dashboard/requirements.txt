@@ -42,7 +42,7 @@ mccabe==0.6.1
 murmurhash==1.0.2
 networkx==2.4
 nltk==3.5
-numpy==1.18.5
+numpy==1.22.0
 oauthlib==3.1.0
 pandas==1.0.4
 pandas-datareader==0.8.1
